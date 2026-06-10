@@ -1,0 +1,33 @@
+{
+  "changelists": [
+    {
+      "name": "Default",
+      "files": [
+        ".gitignore",
+        ".python-version",
+        "README.md",
+        "main.py",
+        "pyproject.toml",
+        "scripts/__init__.py",
+        "scripts/calculos.py",
+        "scripts/liquidacion.py",
+        "test/conftest.py",
+        "test/test_calculos.py",
+        "uv.lock",
+        ".vscode/changelists.json",
+        "test/test_u_liquidacion.py",
+        "test/test_i_liquidacion.py",
+        "docs/reporte_calculos.html",
+        ".coverage",
+        "features/suma.feature",
+        "features/steps/suma_steps.py",
+        "behave.ini",
+        "docs/reporte_behave.html",
+        "docs/allure-results/1fd2ca6d-2ee5-4330-ae89-23066e656776-result.json",
+        "docs/allure-results/e172ed4f-1a49-470a-a8ec-779f9ce49356-result.json",
+        "docs/allure-results/e180d4b5-e773-4d9a-bbb5-f719aa84ef97-result.json"
+      ]
+    }
+  ],
+  "active": "Default"
+}
